@@ -10,14 +10,16 @@
   },
   "dependencies": {
     "@react-three/fiber": "latest",
+    "@vercel/analytics": "^2.0.1",
     "gsap": "latest",
+    "lenis": "latest",
     "next": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "three": "latest",
-    "lenis": "latest"
+    "three": "latest"
   },
   "devDependencies": {
+    "@tailwindcss/postcss": "latest",
     "@types/node": "latest",
     "@types/react": "latest",
     "@types/react-dom": "latest",
@@ -25,7 +27,6 @@
     "eslint-config-next": "latest",
     "postcss": "latest",
     "tailwindcss": "latest",
-    "typescript": "latest",
-    "@tailwindcss/postcss": "latest"
+    "typescript": "latest"
   }
 }
